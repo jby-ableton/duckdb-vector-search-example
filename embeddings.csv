@@ -1,0 +1,6 @@
+id,description,vec
+1,Red apple,"[1.0,0.0,0.0]"
+2,Green apple,"[0.0,1.0,0.0]"
+3,Blue berry,"[0.0,0.0,1.0]"
+4,Yellow banana,"[1.0,1.0,0.0]"
+5,Purple grape,"[1.0,0.0,1.0]"
